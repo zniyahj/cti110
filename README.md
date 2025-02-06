@@ -1,2 +1,5 @@
 # cti110
-CTI 110 Repository
+Created for P1Lab1
+Johnson
+2/6/2025
+
